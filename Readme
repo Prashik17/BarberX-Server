@@ -1,1 +1,5 @@
 Server Code
+
+1 --> npm install
+2 --> npm run dev
+3 --> http://localhost:3000/api-docs. -----> paste this link in browser
